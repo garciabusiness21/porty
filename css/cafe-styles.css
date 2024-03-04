@@ -1,0 +1,81 @@
+body {
+    background: #b4eeca;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+h1 {
+    color: blueviolet;
+    font: 32px Monaco, Helvetica, serif;
+}
+
+h2 {
+    font: 27px Monaco;
+    font-weight: bold;
+}
+
+table {
+    width: 50%;
+}
+
+thead {
+    text-align: left;
+}
+
+label {
+    display: block;
+}
+
+section {
+    border: 3px solid blueviolet;
+    padding: 20px;
+    margin: 30px;
+}
+
+p {
+    margin-top:10px;
+    text-align: center;
+}
+
+header {
+    padding: 30px;
+    background-image: linear-gradient(to right, #b4eeca, #def7e7 );
+}
+
+#submit-btn {
+    display: block;
+    border-radius: 5px;
+    background-color: #b4eeca;
+    color: blueviolet;
+    font-weight: bolder;
+    padding: 8px;
+}
+
+#addpad {
+    padding-block: 30px;
+}
+
+#special {
+    text-align: left;
+}
+
+.sectionbg{
+    background-color: aliceblue;
+}
+.extraPad {
+    padding-bottom: 0px;
+    padding-top: 8px;
+}
+
+.cardQuote {
+    background-color: #b4eeca;
+    border: 3px solid blueviolet;
+}
+
+.icons {
+    color: black;
+}
+
+.carl {
+    text-align: right;
+    margin-right: 130px;
+}
