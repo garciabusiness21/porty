@@ -79,3 +79,11 @@ header {
     text-align: right;
     margin-right: 130px;
 }
+
+.noU{
+    text-decoration: none;
+}
+
+.blackU {
+    color: black;
+}
